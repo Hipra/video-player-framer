@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-pause@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.5,1.49477117 C0.5,0.945374222 0.943716645,0.5 1.49980749,0.5 L4.50019251,0.5 C5.05237094,0.5 5.5,0.950925395 5.5,1.49477117 L5.5,18.5052288 C5.5,19.0546258 5.05628335,19.5 4.50019251,19.5 L1.49980749,19.5 C0.947629061,19.5 0.5,19.0490746 0.5,18.5052288 L0.5,1.49477117 Z M11.5,1.49477117 C11.5,0.945374222 11.9437166,0.5 12.4998075,0.5 L15.5001925,0.5 C16.0523709,0.5 16.5,0.950925395 16.5,1.49477117 L16.5,18.5052288 C16.5,19.0546258 16.0562834,19.5 15.5001925,19.5 L12.4998075,19.5 C11.9476291,19.5 11.5,19.0490746 11.5,18.5052288 L11.5,1.49477117 Z" id="icon-pause" stroke="#FFFFFF"></path>
+    </g>
+</svg>
